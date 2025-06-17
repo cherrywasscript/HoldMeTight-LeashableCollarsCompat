@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.ricardthegreat.holdmetight_leashablecollars_compat.mixins",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "holdmetight_leashablecollars_compat.mixins.refmap.json",
+    "mixins": [
+      "LeashProxyEntityMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }
